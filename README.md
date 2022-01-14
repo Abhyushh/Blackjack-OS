@@ -1,1 +1,2 @@
-# Blackjack-OS
+# BlackJack
+BlackJack in Shell Script
